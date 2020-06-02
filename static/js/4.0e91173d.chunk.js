@@ -1,0 +1,2 @@
+(this["webpackJsonpcontact-tracing"]=this["webpackJsonpcontact-tracing"]||[]).push([[4],{354:function(t,e,a){"use strict";a.r(e);var n=a(0),c=a.n(n),s=a(135),i=a.n(s);e.default=function(){return c.a.createElement("div",{className:"about-videoprt text-center"},c.a.createElement("div",{className:"container"},c.a.createElement("div",{className:"videocontent","data-aos":"zoom-in-up"},c.a.createElement(i.a,null,c.a.createElement("iframe",{src:"".concat("http://localhost:3000","/assets/svg-animation/index.html"),width:"100%"})))))}}}]);
+//# sourceMappingURL=4.0e91173d.chunk.js.map
